@@ -3,11 +3,11 @@
 Adapted from Sir Rowel Atienza
 
 
- >  ### Disclaimer
+### Disclaimer
+ 
+ >  The author claims _no warranty_ with this program. Or even association.
  >
- >	The author claims _no warranty_ with this program. Or even association.
- >
- >	_You're on your own now._
+ >  _You're on your own now._
 
 ## Installation
 1. Grab the two files (Makefile, etiquette.c) from the server and store it to a temporary location.
